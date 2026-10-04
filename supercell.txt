@@ -1,0 +1,29 @@
+! Supercell
+||supercell.com^
+||supercell.net^
+
+! Brawl Stars
+||brawlstars.com^
+||brawlstarsgame.com^
+||game.brawlstarsgame.com^
+||game-assets.brawlstarsgame.com^
+||event-assets.brawlstars.com^
+
+! Clash of Clans
+||clashofclans.com^
+||game.clashofclans.com^
+||gamea.clashofclans.com^
+||game-assets.clashofclans.com^
+||event-assets.clashofclans.com^
+
+! Clash Royale
+||clashroyale.com^
+||clashroyaleapp.com^
+||game.clashroyaleapp.com^
+||game-assets.clashroyaleapp.com^
+
+! Supercell services
+||accounts.supercell.com^
+||cdn.id.supercell.com^
+||security.id.supercell.com^
+||store.supercell.com^
